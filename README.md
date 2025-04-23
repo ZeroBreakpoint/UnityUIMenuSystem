@@ -1,14 +1,12 @@
 # UnityUIMenuSystem
 
-A simple main menu UI system created in Unity, designed for showcasing my core UI programming skills.
+A simple main menu UI system created in Unity, designed to showcase my core UI programming skills.
 
 **Features**
 - A custom main menu scene with background image and layout
 - Play button that loads the game scene (SampleScene)
 - Exit button that quits the application (or exits Play mode in editor)
 - Scales cleanly to all screen resolutions using Unity's Canvas Scaler
-
-Built as a compact demonstration of my UI implementation using Unity’s inspector-based workflow.
 
 
 **How to Open this project**
