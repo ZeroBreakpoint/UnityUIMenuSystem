@@ -19,7 +19,9 @@ Built as a compact demonstration of my UI implementation using Unity’s inspect
 - Click “Select Folder”, ensure to select all folders from this repo.
 
 Assets/
+
 Packages/
+
 ProjectSettings/
 
 Unity should recognise it as a valid project and open it automatically.
