@@ -14,7 +14,7 @@ A simple main menu UI system created in Unity, designed to showcase my core UI p
 - Open Unity Hub
 - Click “Add Project”
 - Navigate to the root folder of this cloned repo.
-- Click “Select Folder”, ensure to select all folders from this repo.
+- Click “Select Folder”, ensure to select the below folders from this repo:
 
 Assets/
 
