@@ -9,7 +9,7 @@ A simple main menu UI system created in Unity, designed to showcase my core UI p
 - Scales cleanly to all screen resolutions using Unity's Canvas Scaler
 
 
-**How to open the Unity project:**
+**How to open this project:**
 
 - Open Unity Hub
 - Click “Add Project”
@@ -21,7 +21,5 @@ Assets/
 Packages/
 
 ProjectSettings/
-
-A copy of the Standalone .exe has also been included in this repository.
 
 Unity should recognise it as a valid project and open it automatically.
